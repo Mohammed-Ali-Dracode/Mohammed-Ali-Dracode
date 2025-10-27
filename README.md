@@ -28,12 +28,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="60" alt="canva logo" />
 </div>
 
-<br>
-
-<div align="center"> 
-  <img src="https://streak-stats.demolab.com?user=Mohammed-Ali-Dracode&theme=dracula&hide_border=false&border_radius=10" height="200" alt="GitHub Streak" />
-</div>
-
+<br> 
 
 <h3 align="center">Connect with Me 📫</h3>
 
