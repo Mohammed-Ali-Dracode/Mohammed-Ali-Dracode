@@ -1,10 +1,24 @@
-<h1 align="center">Hi, I'm Mohammed Ali</h1>
+<!-- Profile README by Mohammed Ali -->
+
+<h1 align="center">👋 Hi, I'm Mohammed Ali</h1>
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=38C2FF&center=true&vCenter=true&width=650&lines=Mobile+App+Developer+Using+Flutter;Have+Experience+Across+The+Entire+App+Lifecycle;With+Bachelor+of+Faculty+of+Computer+Science)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=38C2FF&center=true&vCenter=true&width=650&lines=Mobile+App+Developer+Using+Flutter;Experienced+Across+the+Entire+App+Lifecycle;Bachelor+of+Computer+Science+Graduate)](https://git.io/typing-svg)
 
 </div>
+
+---
+
+### 💡 About Me
+
+👨‍💻 I'm a **Mobile App Developer** specializing in **Flutter** and **Dart**, passionate about crafting smooth, performant, and beautiful cross-platform apps.  
+🚀 I enjoy learning new tools, optimizing code, and turning ideas into impactful digital products.  
+🎯 Currently focusing on advanced **state management**, **Firebase integration**, and **clean architecture** in Flutter.  
+
+---
+
+### 🛠️ Tech Stack
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="60" alt="flutter logo" />
@@ -28,28 +42,44 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="60" alt="canva logo" />
 </div>
 
-<br> 
+---
 
-<h3 align="center">Connect with Me 📫</h3>
+### 📊 GitHub Stats
 
 <div align="center">
-  <!-- LinkedIn -->
-  <a href="https://www.linkedin.com/in/mohammed-ali-5a830330a" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="28" alt="LinkedIn" />
-  </a>
-  <img width="8" />
-  
-  <!-- Gmail -->
-  <a href="mailto:mohammed.ali.developer@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="28" alt="Gmail" />
-  </a>
-  <img width="8" />
-  
-  <!-- WhatsApp -->
-  <a href="https://wa.me/201017220863" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=WhatsApp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="28" alt="WhatsApp" />
-  </a>
+
+![Mohammed's GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10&count_private=true)
+<br>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=tokyonight&hide_border=true&border_radius=10)
+
 </div>
- 
+
+---
+
+### 📫 Connect with Me
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/mohammed-ali-5a830330a" target="_blank">
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="28" alt="LinkedIn" />
+</a>
+<img width="8" />
+
+<a href="mailto:mohammed.ali.developer@gmail.com" target="_blank">
+  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="28" alt="Gmail" />
+</a>
+<img width="8" />
+
+<a href="https://wa.me/201017220863" target="_blank">
+  <img src="https://img.shields.io/static/v1?message=WhatsApp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="28" alt="WhatsApp" />
+</a>
+
+</div>
+
+---
+
+<div align="center">
+  <i>💬 “Code is like humor. When you have to explain it, it’s bad.”</i>
+</div>
 
 ---
