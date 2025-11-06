@@ -33,46 +33,20 @@
 ---
 ### 🌐 Connect With Me
 
-<div align="center">
+<p align="center">
   <a href="https://www.linkedin.com/in/mohammed-ali-5a830330a" target="_blank">
-    <button style="
-      padding: 10px 18px;
-      font-size: 14px;
-      border: none;
-      border-radius: 6px;
-      background-color: #0A66C2;
-      color: white;
-      cursor: pointer;
-      margin: 5px;
-    ">LinkedIn</button>
+    <img alt="LinkedIn" src="data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='120' height='28'><rect rx='6' width='120' height='28' fill='%230A66C2'/><text x='60' y='18' font-family='Verdana' font-size='12' fill='white' text-anchor='middle'>LinkedIn</text></svg>">
   </a>
 
   <a href="mailto:mohammed.ali.developer@gmail.com" target="_blank">
-    <button style="
-      padding: 10px 18px;
-      font-size: 14px;
-      border: none;
-      border-radius: 6px;
-      background-color: #EA4335;
-      color: white;
-      cursor: pointer;
-      margin: 5px;
-    ">Email</button>
+    <img alt="Email" src="data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='90' height='28'><rect rx='6' width='90' height='28' fill='%23EA4335'/><text x='45' y='18' font-family='Verdana' font-size='12' fill='white' text-anchor='middle'>Email</text></svg>">
   </a>
 
   <a href="https://wa.me/201017220863" target="_blank">
-    <button style="
-      padding: 10px 18px;
-      font-size: 14px;
-      border: none;
-      border-radius: 6px;
-      background-color: #25D366;
-      color: white;
-      cursor: pointer;
-      margin: 5px;
-    ">WhatsApp</button>
+    <img alt="WhatsApp" src="data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='110' height='28'><rect rx='6' width='110' height='28' fill='%2325D366'/><text x='55' y='18' font-family='Verdana' font-size='12' fill='white' text-anchor='middle'>WhatsApp</text></svg>">
   </a>
-</div>
+</p>
+
 
 ---
 
