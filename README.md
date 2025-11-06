@@ -34,19 +34,73 @@
 
 ### 🌐 Connect With Me
 
-<div align="center">
+<div align="center" style="
+    display: flex; 
+    flex-wrap: wrap; 
+    gap: 15px; /* Spacing between buttons */
+    justify-content: center; 
+    margin: 20px 0;
+">
 
-<a href="https://www.linkedin.com/in/mohammed-ali-5a830330a" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=00548E&color=0077B5" height="40" style="border-radius:8px; margin:7px;">
-</a>
+  <a href="https://www.linkedin.com/in/mohammed-ali-5a830330a" target="_blank" style="text-decoration: none;">
+    <button style="
+        background-color: #0A66C2; /* LinkedIn Blue */
+        color: white; 
+        border: 2px solid #0A66C2; /* Color border */
+        padding: 12px 25px; 
+        border-radius: 6px; /* Slightly rounded corners */
+        font-size: 17px; 
+        font-weight: 600; /* Bolder text */
+        cursor: pointer; 
+        display: flex; 
+        align-items: center; 
+        gap: 10px; 
+        box-shadow: 0 4px 6px rgba(0, 0, 0, 0.2); /* Subtle shadow for depth */
+        transition: all 0.2s ease;
+    ">
+      <i class="fab fa-linkedin" aria-hidden="true"></i>LinkedIn &nbsp;
+    </button>
+  </a>
 
-<a href="mailto:mohammed.ali.developer@gmail.com" target="_blank">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=A52A22&color=D14836" height="40" style="border-radius:8px; margin:7px;">
-</a>
+  <a href="mailto:mohammed.ali.developer@gmail.com" target="_blank" style="text-decoration: none;">
+    <button style="
+        background-color: #D44638; /* Gmail Red */
+        color: white; 
+        border: 2px solid #D44638;
+        padding: 12px 25px; 
+        border-radius: 6px; 
+        font-size: 17px; 
+        font-weight: 600; 
+        cursor: pointer; 
+        display: flex; 
+        align-items: center; 
+        gap: 10px; 
+        box-shadow: 0 4px 6px rgba(0, 0, 0, 0.2);
+        transition: all 0.2s ease;
+    ">
+      <i class="fas fa-envelope" aria-hidden="true"></i>Email &nbsp;
+    </button>
+  </a>
 
-<a href="https://wa.me/201017220863" target="_blank">
-  <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=1E90FF&color=25D366" height="40" style="border-radius:8px; margin:7px;">
-</a> 
+  <a href="https://wa.me/201017220863" target="_blank" style="text-decoration: none;">
+    <button style="
+        background-color: #25D366; /* WhatsApp Green */
+        color: white; 
+        border: 2px solid #25D366;
+        padding: 12px 25px; 
+        border-radius: 6px; 
+        font-size: 17px; 
+        font-weight: 600; 
+        cursor: pointer; 
+        display: flex; 
+        align-items: center; 
+        gap: 10px; 
+        box-shadow: 0 4px 6px rgba(0, 0, 0, 0.2);
+        transition: all 0.2s ease;
+    ">
+      <i class="fab fa-whatsapp" aria-hidden="true"></i>WhatsApp &nbsp;
+    </button>
+  </a>
 
 </div>
 
