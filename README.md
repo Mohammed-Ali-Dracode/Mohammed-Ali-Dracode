@@ -33,57 +33,47 @@
 ---
 ### 🌐 Connect With Me
 
-<div align="center" style="display: flex; flex-wrap: wrap; gap: 15px; justify-content: center; margin: 20px 0;">
-
-  <a href="https://www.linkedin.com/in/mohammed-ali-5a830330a" target="_blank" style="
-      text-decoration: none; /* Remove underline */
-      padding: 10px 20px; /* Internal spacing */
-      border-radius: 6px; /* Rounded corners */
-      background-color: #0A66C2; /* LinkedIn Blue */
-      color: white; 
-      font-weight: 600; 
-      font-size: 17px; 
-      display: inline-block; /* Essential for padding/sizing */
-      box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2); /* Basic shadow */
-      line-height: 1.5; /* Vertical alignment fix */
-  ">
-    
-    LinkedIn
-  </a>
-
-  <a href="mailto:mohammed.ali.developer@gmail.com" target="_blank" style="
-      text-decoration: none;
-      padding: 10px 20px;
+<div align="center">
+  <a href="https://www.linkedin.com/in/mohammed-ali-5a830330a" target="_blank">
+    <button style="
+      padding: 10px 18px;
+      font-size: 14px;
+      border: none;
       border-radius: 6px;
-      background-color: #D44638; /* Gmail Red */
-      color: white; 
-      font-weight: 600; 
-      font-size: 17px; 
-      display: inline-block;
-      box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2);
-      line-height: 1.5;
-  ">
-
-    Email
+      background-color: #0A66C2;
+      color: white;
+      cursor: pointer;
+      margin: 5px;
+    ">LinkedIn</button>
   </a>
 
-  <a href="https://wa.me/201017220863" target="_blank" style="
-      text-decoration: none;
-      padding: 10px 20px;
+  <a href="mailto:mohammed.ali.developer@gmail.com" target="_blank">
+    <button style="
+      padding: 10px 18px;
+      font-size: 14px;
+      border: none;
       border-radius: 6px;
-      background-color: #25D366; /* WhatsApp Green */
-      color: white; 
-      font-weight: 600; 
-      font-size: 17px; 
-      display: inline-block;
-      box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2);
-      line-height: 1.5;
-  ">
-  
-    WhatsApp
+      background-color: #EA4335;
+      color: white;
+      cursor: pointer;
+      margin: 5px;
+    ">Email</button>
   </a>
 
+  <a href="https://wa.me/201017220863" target="_blank">
+    <button style="
+      padding: 10px 18px;
+      font-size: 14px;
+      border: none;
+      border-radius: 6px;
+      background-color: #25D366;
+      color: white;
+      cursor: pointer;
+      margin: 5px;
+    ">WhatsApp</button>
+  </a>
 </div>
+
 ---
 
 <div align="center">
