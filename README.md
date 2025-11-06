@@ -2,7 +2,7 @@
 
 <!-- Title -->
 <h1 align="center"> 
-  Hi, I'm <span style="color:#38C2FF;">Mohammed Ali</span> 👨‍💻
+  Hi, I'm <span style="color:#38C2FF;">Mohammed Ali</span>
 </h1>
 
 <!-- Typing animation -->
@@ -14,7 +14,7 @@
 
 ---
  
-### 🪄 About Me
+### 👨‍💻 About Me
 
 - 💼 **Mobile App Developer** specializing in **Flutter & Dart**  
 - ⚡ Love creating smooth UI & efficient code  
@@ -37,15 +37,15 @@
 <div align="center">
 
 <a href="https://www.linkedin.com/in/mohammed-ali-5a830330a" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-%230A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=001427&color=0A66C2" height="40" style="border-radius:10px; margin:5px;">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=00548E&color=0077B5" height="40" style="border-radius:8px; margin:7px;">
 </a>
 
 <a href="mailto:mohammed.ali.developer@gmail.com" target="_blank">
-  <img src="https://img.shields.io/badge/Gmail-%23D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=2B0000&color=D14836" height="40" style="border-radius:10px; margin:5px;">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=A52A22&color=D14836" height="40" style="border-radius:8px; margin:7px;">
 </a>
 
 <a href="https://wa.me/201017220863" target="_blank">
-  <img src="https://img.shields.io/badge/WhatsApp-%2325D366?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=002B17&color=25D366" height="40" style="border-radius:10px; margin:5px;">
+  <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=1E90FF&color=25D366" height="40" style="border-radius:8px; margin:7px;">
 </a> 
 
 </div>
