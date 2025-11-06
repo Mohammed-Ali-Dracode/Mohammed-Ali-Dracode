@@ -33,19 +33,24 @@
 ---
 ### 🌐 Connect With Me
 
-<p align="center">
+<div align="center">
+  <!-- LinkedIn -->
   <a href="https://www.linkedin.com/in/mohammed-ali-5a830330a" target="_blank">
-    <img alt="LinkedIn" src="data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='120' height='28'><rect rx='6' width='120' height='28' fill='%230A66C2'/><text x='60' y='18' font-family='Verdana' font-size='12' fill='white' text-anchor='middle'>LinkedIn</text></svg>">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="28" alt="LinkedIn" />
   </a>
-
+  <img width="8" />
+  
+  <!-- Gmail -->
   <a href="mailto:mohammed.ali.developer@gmail.com" target="_blank">
-    <img alt="Email" src="data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='90' height='28'><rect rx='6' width='90' height='28' fill='%23EA4335'/><text x='45' y='18' font-family='Verdana' font-size='12' fill='white' text-anchor='middle'>Email</text></svg>">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="28" alt="Gmail" />
   </a>
-
+  <img width="8" />
+  
+  <!-- WhatsApp -->
   <a href="https://wa.me/201017220863" target="_blank">
-    <img alt="WhatsApp" src="data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='110' height='28'><rect rx='6' width='110' height='28' fill='%2325D366'/><text x='55' y='18' font-family='Verdana' font-size='12' fill='white' text-anchor='middle'>WhatsApp</text></svg>">
+    <img src="https://img.shields.io/static/v1?message=WhatsApp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="28" alt="WhatsApp" />
   </a>
-</p>
+</div>
 
 
 ---
