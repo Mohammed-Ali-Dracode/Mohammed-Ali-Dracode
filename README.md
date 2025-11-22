@@ -16,11 +16,10 @@
  
 ### 👨‍💻 About Me
 
-- 💼 **Mobile App Developer** specializing in **Flutter & Dart**  
-- ⚡ Love creating smooth UI & efficient code  
-- 🔥 Experienced across **Firebase**, **Clean Architecture**, and **App Lifecycle**  
-- 🌱 Currently exploring **AI-powered apps** and **state management patterns**  
-- 🧪 Testing/Updating all the app futures  
+💼 **Mobile App Developer** specializing in **Flutter & Dart**, Have experience with:
+- ⚡ Designing using **Figma** and **Canva**.
+- 🔥 **Frontend/Backend Mobile Developing**, Firebase, Clean Architecture.
+- 🧪 **Testing/Updating** all the app futures.
 
 ---
   
